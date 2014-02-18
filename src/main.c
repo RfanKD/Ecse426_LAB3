@@ -10,7 +10,11 @@
 
 int main()
 {
+<<<<<<< HEAD
 	you
+=======
+	test
+>>>>>>> c3050913280addafd2c881ef878af74ac26aa636
 }
 
 
