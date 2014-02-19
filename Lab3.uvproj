@@ -433,6 +433,11 @@
               <FileType>1</FileType>
               <FilePath>.\src\atan_LUT.c</FilePath>
             </File>
+            <File>
+              <FileName>accelerometer.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\accelerometer.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>
@@ -617,6 +622,11 @@
               <FileName>lis3dsh.c</FileName>
               <FileType>1</FileType>
               <FilePath>.\LIS3DSH\lis3dsh.c</FilePath>
+            </File>
+            <File>
+              <FileName>lis3dsh.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\LIS3DSH\lis3dsh.h</FilePath>
             </File>
           </Files>
         </Group>
